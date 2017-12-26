@@ -1,0 +1,9 @@
+D:\Projects\FillPolygonPointF\FillPolygonPointF\bin\Debug\FillPolygonPointF.exe.config
+D:\Projects\FillPolygonPointF\FillPolygonPointF\bin\Debug\FillPolygonPointF.exe
+D:\Projects\FillPolygonPointF\FillPolygonPointF\bin\Debug\FillPolygonPointF.pdb
+D:\Projects\FillPolygonPointF\FillPolygonPointF\obj\Debug\FillPolygonPointF.csprojResolveAssemblyReference.cache
+D:\Projects\FillPolygonPointF\FillPolygonPointF\obj\Debug\FillPolygonPointF.Form1.resources
+D:\Projects\FillPolygonPointF\FillPolygonPointF\obj\Debug\FillPolygonPointF.Properties.Resources.resources
+D:\Projects\FillPolygonPointF\FillPolygonPointF\obj\Debug\FillPolygonPointF.csproj.GenerateResource.Cache
+D:\Projects\FillPolygonPointF\FillPolygonPointF\obj\Debug\FillPolygonPointF.exe
+D:\Projects\FillPolygonPointF\FillPolygonPointF\obj\Debug\FillPolygonPointF.pdb
